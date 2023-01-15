@@ -1,3 +1,4 @@
+@@ -0,0 +1,23 @@
 /*
 reducer is defined here and is exproted.
 This reducer should handle all the actions.
